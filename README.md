@@ -1,2 +1,3 @@
-# NLP-study
-Projects for NLP independent study
+# NLP projects
+Projects created as part of NLP independent study.
+Fall 2017
